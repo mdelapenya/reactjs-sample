@@ -12,6 +12,8 @@
   "devDependencies": {
     "webpack": "^1.12.11"
   },
-  "dependencies": {},
+  "dependencies": {
+    "webpack-dev-server": "^1.14.1"
+  },
   "license": "ISC"
 }
