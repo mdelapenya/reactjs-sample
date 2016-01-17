@@ -1,8 +1,8 @@
 import React from 'react';
 
-var LogoVerticalWhite = require('../logo/logo');
-var Geolocalizer = require('../geolocalizer/geolocalizer');
-var Slider = require('../slider/slider');
+var LogoVerticalWhite = require('../logo/logo.jsx');
+var Geolocalizer = require('../geolocalizer/geolocalizer.jsx');
+var Slider = require('../slider/slider.jsx');
 
 var Home = React.createClass ({
   render: function () {
