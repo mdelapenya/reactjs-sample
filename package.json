@@ -4,7 +4,9 @@
   "version": "0.0.1",
   "description": "Playing with React!",
   "main": "webpack.config.js",
-  "scripts": {},
+  "scripts": {
+    "build": "webpack"
+  },
   "keywords": [],
   "author": "mdelapenya",
   "devDependencies": {
