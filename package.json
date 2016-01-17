@@ -1,0 +1,15 @@
+{
+  "name": "react-js-sample",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Playing with React!",
+  "main": "webpack.config.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "mdelapenya",
+  "devDependencies": {
+    "webpack": "^1.12.11"
+  },
+  "dependencies": {},
+  "license": "ISC"
+}
