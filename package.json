@@ -11,7 +11,8 @@
   "keywords": [],
   "author": "mdelapenya",
   "devDependencies": {
-    "webpack": "^1.12.11"
+    "webpack": "^1.12.11",
+    "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
     "babel-core": "^6.4.0",
@@ -26,8 +27,7 @@
     "postcss": "^5.0.14",
     "postcss-loader": "^0.8.0",
     "react": "^0.14.6",
-    "react-dom": "^0.14.6",
-    "webpack-dev-server": "^1.14.1"
+    "react-dom": "^0.14.6"
   },
   "license": "ISC"
 }
