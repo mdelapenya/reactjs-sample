@@ -23,6 +23,8 @@
     "eslint": "^1.10.3",
     "eslint-loader": "^1.2.0",
     "eslint-plugin-react": "^3.15.0",
+    "postcss": "^5.0.14",
+    "postcss-loader": "^0.8.0",
     "webpack-dev-server": "^1.14.1"
   },
   "license": "ISC"
